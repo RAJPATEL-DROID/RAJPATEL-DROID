@@ -5,7 +5,7 @@
 
 - My current TechStack is **Node.js** with **MongoDB**</h3>
 
-- I’m currently learning **React**
+- I’m currently learning **React**, **JAVA** 
 
 
 <h3 align="left">Connect with me:</h3>
