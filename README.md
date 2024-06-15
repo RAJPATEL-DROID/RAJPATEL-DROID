@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=RAJPATEL-DROID&color=green)
 
-<img src="header.png" alt="Banner that says Raj Patel - Backend Developer">
+<img src="github-header-image.png" alt="Banner that says Raj Patel - Backend Developer">
 
 ## Introduction
 Greetings! I'm a passionate software engineer with a strong background in backend development. My tech stack includes Java, Vert.x, Go Lang, JavaScript, Node.js, and Express.js. I'm particularly interested in system design and distributed systems, and I enjoy solving DSA problems on online platforms like LeetCode and GeeksForGeeks.
