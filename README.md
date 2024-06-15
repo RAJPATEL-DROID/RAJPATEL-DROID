@@ -1,10 +1,28 @@
 ![](https://komarev.com/ghpvc/?username=RAJPATEL-DROID&color=green)
 
-<img src="header.png" alt="Banner that says Raj Patel - Software Engineer">
+<img src="header.png" alt="Banner that says Raj Patel - Backend Developer">
+# Raj Patel - Software Engineer
 
-- My current TechStack is **Node.js** with **MongoDB**</h3>
+## Introduction
+Greetings! I'm a passionate software engineer with a strong background in backend development. My tech stack includes Java, Vert.x, Go Lang, JavaScript, Node.js, and Express.js. I'm particularly interested in system design and distributed systems, and I enjoy solving DSA problems on online platforms like LeetCode and GeeksForGeeks.
 
-- I’m currently learning **React**, **JAVA** 
+## Projects
+### 1. [Metric Monitoring System](https://github.com/rajpatel-droid/metricmonitoringsystem)
+A scalable and reliable metric monitoring system built using a combination of Java, Vert.x and GoLang. I have used ZeroMQ for communication between Backend and Pluginengine microservices.
+
+### 2. [Multiplayer Tic Tac Toe Game](https://github.com/rajpatel-droid/Multiplayer-TicTacToe-JAVA)
+A real-time multiplayer Tic Tac Toe game developed using Core Java and JAVA Sockets. This project demonstrates my skills in building interactive web applications and implementing real-time communication.
+
+### 3. [DSA Problem Solutions](https://github.com/rajpatel-droid/LeetCode-Repo)
+A collection of solutions to various DSA problems from LeetCode and GeeksForGeeks. This repository highlights my problem-solving skills and algorithms knowledge.
+
+## Skills
+- **Programming Languages**: Java, Go Lang, JavaScript, Node.js
+- **Frameworks and Libraries**: Vert.x, Express.js
+- **Databases**: MySQL, MongoDB
+- **Distributed Systems**: ZeroMQ, Microservices Architecture
+- **Data Structures and Algorithms**: Proficient in solving complex DSA problems
+
 
 
 <h3 align="left">Connect with me:</h3>
