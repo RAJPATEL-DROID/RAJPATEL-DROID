@@ -3,7 +3,8 @@
 <img src="github-header-image.png" alt="Banner that says Raj Patel - Backend Developer">
 
 ## Introduction
-Greetings! I'm a passionate software engineer with a strong background in backend development. My tech stack includes Java, Vert.x, Go Lang, JavaScript, Node.js, and Express.js. I'm particularly interested in system design and distributed systems, and I enjoy solving DSA problems on online platforms like LeetCode and GeeksForGeeks.
+Greetings! I'm a passionate software engineer with a strong background in backend development. My tech stack includes Java, Vert.x, Go Lang, JavaScript, Node.js, and Express.js. I'm particularly interested in system design and distributed systems, and I enjoy solving DSA problems on online platforms like LeetCode and GeeksForGeeks. 
+In addition to the above, I am currently learning the Spring/Spring Boot framework for Java Backend development. This will help me expand my skillset and knowledge in building enterprise-level Java applications.
 
 ## Projects
 ### 1. [Metric Monitoring System](https://github.com/rajpatel-droid/metricmonitoringsystem)
