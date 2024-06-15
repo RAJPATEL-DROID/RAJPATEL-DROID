@@ -20,7 +20,7 @@ A collection of solutions to various DSA problems from LeetCode and GeeksForGeek
 - **Programming Languages**: Java, Go Lang, JavaScript, Node.js
 - **Frameworks and Libraries**: Vert.x, Express.js
 - **Databases**: MySQL, MongoDB
-- **Distributed Systems**: ZeroMQ, Microservices Architecture
+- **Messaging Service**: ZeroMQ
 - **Data Structures and Algorithms**: Proficient in solving complex DSA problems
 
 
