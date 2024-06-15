@@ -1,14 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=RAJPATEL-DROID&color=green)
 
 <img src="header.png" alt="Banner that says Raj Patel - Backend Developer">
-# Raj Patel - Software Engineer
 
 ## Introduction
 Greetings! I'm a passionate software engineer with a strong background in backend development. My tech stack includes Java, Vert.x, Go Lang, JavaScript, Node.js, and Express.js. I'm particularly interested in system design and distributed systems, and I enjoy solving DSA problems on online platforms like LeetCode and GeeksForGeeks.
 
 ## Projects
 ### 1. [Metric Monitoring System](https://github.com/rajpatel-droid/metricmonitoringsystem)
-A scalable and reliable metric monitoring system built using a combination of Java, Vert.x and GoLang. I have used ZeroMQ for communication between Backend and Pluginengine microservices.
+A scalable and reliable metric monitoring system built using Java 17, Vert.x and GoLang. I have used ZeroMQ for communication between Backend and Pluginengine microservices.
 
 ### 2. [Multiplayer Tic Tac Toe Game](https://github.com/rajpatel-droid/Multiplayer-TicTacToe-JAVA)
 A real-time multiplayer Tic Tac Toe game developed using Core Java and JAVA Sockets. This project demonstrates my skills in building interactive web applications and implementing real-time communication.
