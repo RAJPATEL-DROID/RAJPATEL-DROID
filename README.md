@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=RAJPATEL-DROID&color=green)
 
 ## Introduction
-Greetings! I'm a software engineer with a strong background in backend development. My tech stack includes Java, Spring Boot 3.0, Vert.x, Go Lang. I'm particularly interested in system design and distributed systems, and I enjoy solving DSA problems on online platforms like LeetCode and GeeksForGeeks. Currently working at S&P Global as an Apprentice. On the daily basis, I deal with Python and Java Codebase at my organization with some amount of devops tools like terraform.
+Greetings! I'm a software engineer with a strong background in backend development. My tech stack includes Java, Spring Boot 3.0, Vert.x,Python, Go Lang. I'm particularly interested in system design and distributed systems, and I enjoy solving DSA problems on online platforms like LeetCode and GeeksForGeeks. Currently working at S&P Global as an Apprentice. On the daily basis, I deal with Python and Java Codebase at my organization with some amount of devops tools like terraform.
 
 ## Personal Projects
 ### 1. [Metric Monitoring System](https://github.com/rajpatel-droid/metricmonitoringsystem)
@@ -14,9 +14,9 @@ A real-time multiplayer Tic Tac Toe game developed using Core Java and JAVA Sock
 A collection of solutions to various DSA problems from LeetCode and GeeksForGeeks. This repository highlights my problem-solving skills and algorithms knowledge.
 
 ## Skills
-- **Programming Languages**: Java, Go Lang, JavaScript, Node.js
-- **Frameworks and Libraries**: Vert.x, Express.js
-- **Databases**: MySQL, MongoDB
+- **Programming Languages**: Java, Go Lang, Python, Node.js
+- **Frameworks and Libraries**: Spring, Sprint Boot, Vert.x
+- **Databases**: MySQL, MongoDB, SQL Server
 - **Messaging Service**: ZeroMQ
 - **Data Structures and Algorithms**: Proficient in solving complex DSA problems
 
